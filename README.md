@@ -8,7 +8,7 @@
   </a>
   <a href="mailto:eugene663@naver.com">
     <img
-    <img src="https://img.shields.io/badge/maildotru-black?style=flat&logo=maildotru&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/email-black?style=flat&logo=maildotru&logoColor=white" />&nbsp
   </a>
 </div>
 <!--
