@@ -4,11 +4,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://eugene663.tistory.com/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/tistory-black?style=flat&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:eugene663@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=mailboxdotorg&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/maildotru-black?style=flat&logo=maildotru&logoColor=white" />&nbsp
   </a>
 </div>
 <!--
