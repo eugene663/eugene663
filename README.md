@@ -30,15 +30,3 @@ PM과 QA 경험을 바탕으로 더 나은 사용자 경험을 고민하는 이�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene663&layout=compact&theme=radical" width="48%" />
 </div>
 
----
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://eugene663.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=tistory&logoColor=white" />
-  </a>
-  <a href="mailto:eugene663@naver.com">
-    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  
-</div>
