@@ -1,6 +1,5 @@
 ## Hi there! 👋  
-PM과 QA 경험을 바탕으로 더 나은 사용자 경험을 고민하는 이유진입니다.  
-현재 **기술/서비스 기획, 데이터 분석, 웹프로그래밍**을 중심으로 성장하고 있습니다.  
+**기술/서비스 기획, 데이터 분석, 웹프로그래밍**을 중심으로 성장하고 있습니다.  
 
 ### 🚀 About Me  
 - 🌱 **Currently Learning**: Web Programming, Digital Service Planning  
