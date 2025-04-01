@@ -18,9 +18,9 @@
 ---
 
 ### 💡 Experience  
-- **KB IT's Your Life 6기 참여중**
-- **POS & 결제 시스템 QA, PM** @ United Merchant Services  
-- **AI 음성 분석 웹사이트 기획 & 개발**  
+- 2025.03 - ing: **KB IT's Your Life 6기**
+- 2023.08 - 2024.08: **POS & 결제 시스템 QA, PM** @ United Merchant Services  
+- 2023.03 - 2023.06: **AI 음성 분석 웹사이트 기획 & 개발**  
 ---
 
 ### 📊 GitHub Stats  
