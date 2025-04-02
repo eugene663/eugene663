@@ -2,8 +2,8 @@
 **기술/서비스 기획, 데이터 분석, 웹프로그래밍**을 중심으로 성장하고 있습니다.  
 
 ### 🚀 About Me  
-- 🌱 **Currently Learning**: Web Programming, Digital Service Planning  
-- 🔍 **Interest**: IT Planning, QA, PM   
+ 🌱 **Currently Learning**: Web Programming <br/>
+ 🔍 **Interest**: PM   
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### 💡 Experience  
 - 2025.03 - ing: **KB IT's Your Life 6기**
-- 2023.08 - 2024.08: **POS & 결제 시스템 QA, PM** @ United Merchant Services  
+- 2023.08 - 2024.08: **POS & 결제 시스템 QA, PM 인턴** @ United Merchant Services  
 - 2023.03 - 2023.06: **AI 음성 분석 웹사이트 기획 & 개발**  
 ---
 
